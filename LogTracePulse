@@ -1,0 +1,23 @@
+
+---
+
+### **3. 30_LogTracePulse**  
+**Description:**  
+Detects frequent and clustered log patterns, giving insight into bursts and error patterns.
+
+#### **README.md**
+```markdown
+# LogTracePulse - High-Frequency Log Pattern Analyzer
+
+LogTracePulse helps identify recurring log issues, error storms, and frequency spikes for better diagnostics.
+
+## Features
+- Pattern matching + burst detection  
+- Timestamp clustering  
+- CLI-friendly with filters  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_LogTracePulse.git
+cd 30_LogTracePulse
+python analyze.py
