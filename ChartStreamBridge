@@ -1,0 +1,23 @@
+
+---
+
+### **4. 30_ChartStreamBridge**  
+**Description:**  
+Visualizes numeric streams in a smooth, real-time chart designed for live data feeds.
+
+#### **README.md**
+```markdown
+# ChartStreamBridge - Live Data Plotter
+
+ChartStreamBridge renders live data with scrollable, dynamic line charts great for metrics, monitoring, or experiments.
+
+## Features
+- Realtime line chart  
+- Adjustable refresh rate  
+- Built with Matplotlib  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_ChartStreamBridge.git
+cd 30_ChartStreamBridge
+python visualize.py
