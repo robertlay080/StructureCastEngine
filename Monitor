@@ -1,0 +1,23 @@
+
+---
+
+### **2. 30_APISpectrumBoard**  
+**Description:**  
+Tracks performance metrics and availability for a spectrum of APIs and microservices.
+
+#### **README.md**
+```markdown
+# APISpectrumBoard - Multi-API Health & Latency Monitor
+
+APISpectrumBoard helps you observe system-wide API behavior using real-time snapshots and status overviews.
+
+## Features
+- Logs status codes + latency  
+- Real-time CLI board  
+- Export to CSV or JSON  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_APISpectrumBoard.git
+cd 30_APISpectrumBoard
+python monitor.py
